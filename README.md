@@ -1,10 +1,10 @@
 # Github Flavoured Markdown
 
-- [ ] <input type ="checkbox" id="checkbox1"> External Link
-- [ ] <input type="checkbox" id="checkbox2"> Internal Link
-- [ ] <input type="checkbox" id="checkbox3">Images
-- [ ] <input type="checkbox" id="checkbox4">Emojis
-- [ ] <input type="checkbox" id="checkbox5">Tables
+- [X] <input type ="checkbox" id="checkbox1"> External Link
+- [X] <input type="checkbox" id="checkbox2"> Internal Link
+- [X] <input type="checkbox" id="checkbox3">Images
+- [X] <input type="checkbox" id="checkbox4">Emojis
+- [X] <input type="checkbox" id="checkbox5">Tables
 
 ## [External Link](#checkbox1)
 
