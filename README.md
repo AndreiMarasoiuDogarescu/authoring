@@ -12,7 +12,7 @@ Here you can find the github documentation [GitHub Documentation](https://help.g
 
 ## Internal Link
 
-Here you can press for Images
+Here you can press for [Images](images) 
 
 ## Images
 
